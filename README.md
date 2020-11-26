@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 Hi 👋, my name is Wesley Muthemba.
 ### Education
 I am currently studying at the [University of Washington (UW)](https://www.washington.edu/), [Global Innovation Exchange (GIX)](https://gixnetwork.org/) where I am completing a Master’s in Technology Innovation and hold a Bachelor’s in [Human Centered Design & Engineering (HCDE)](https://www.hcde.washington.edu/).
+
+- [Grad school work](https://luffywesley.github.io/MSTI-Courses/)
+- [Undergrad work](https://luffywesley.github.io/UW-Courses/)
+
 ### Interests
 As an aspiring product manager who thrives on creating order out of chaos, I am energized by “wicked” challenges and am comfortable with ambiguity, having served in multiple internship roles. I keep teams on track and have a knack for identifying blind spots and finding elegant solutions to unforeseen problems. Playing a key role in remote product launches has been exciting, but what drives me continues to be the opportunity to forge a path for others as part of an underrepresented group in tech.
 ## Skills
