@@ -26,12 +26,12 @@ As an aspiring product manager who thrives on creating order out of chaos, I am 
 | Technical |   |
 |-----------|---|
 | Programming Languages | Python, C++, JavaScript |
-| Machine Learning | OpenCV, Numpy, scikit-image, scikit-learn, Pillow |
+| Machine Learning | OpenCV, Numpy, scikit-image, scikit-learn, Pillow, Pandas, SciPy |
+| Deep Learning | TensorFlow, Kears |
 | Frontend/Client  | HTML5, CSS3 |
 | Backend/Server | REST APIs, Flask, Azure |
-| Tools | GitHub, Git, VSCode, Google Cloud Platform, Google Firebase, Azure, Google Collab, JupyterLab|
-| Speaking Languages | English, Swahili | 
+| Tools | GitHub, Git, VS Code, Google Cloud Platform, Azure, Google Collab, JupyterLab, Anaconda |
 ## Work
 - Project Manager Intern @ University of Washington - IT (UW-IT) **Present**
 - Program Manager Intern @ Blizzard Entertainment
-- Co-Founder & Program Manager @ MediModo
+- Co-Founder & CEO @ MediModo
