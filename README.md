@@ -27,7 +27,7 @@ As an aspiring product manager who thrives on creating order out of chaos, I am 
 |-----------|---|
 | Programming Languages | Python, C++, JavaScript |
 | Machine Learning | OpenCV, Numpy, scikit-image, scikit-learn, Pillow, Pandas, SciPy |
-| Deep Learning | TensorFlow, Kears |
+| Deep Learning | TensorFlow, Keras |
 | Frontend/Client  | HTML5, CSS3 |
 | Backend/Server | REST APIs, Flask, Azure |
 | Tools | GitHub, Git, VS Code, Google Cloud Platform, Azure, Google Collab, JupyterLab, Anaconda |
