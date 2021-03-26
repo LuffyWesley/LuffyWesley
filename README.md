@@ -36,3 +36,8 @@ As an aspiring product manager who thrives on creating order out of chaos, I am 
 - Project Manager Intern @ University of Washington - IT (UW-IT) **Present**
 - Program Manager Intern @ Blizzard Entertainment
 - Co-Founder & CEO @ MediModo
+
+<!-- If you're using "master" as default branch -->
+![Metrics](https://github.com/LuffyWesley/LuffyWesley/blob/master/github-metrics.svg)
+<!-- If you're using "main" as default branch -->
+![Metrics](https://github.com/LuffyWesley/LuffyWesley/blob/main/github-metrics.svg)
