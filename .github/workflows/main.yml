@@ -30,7 +30,6 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes                         # Print detailed audit metrics
           plugin_pagespeed_url: .user.website
           plugin_topics: yes
           plugin_topics_mode: mastered # Display icons instead of labels
