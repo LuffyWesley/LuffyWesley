@@ -37,5 +37,6 @@ As an aspiring product manager who thrives on creating order out of chaos, I am 
 - Program Manager Intern @ Blizzard Entertainment
 - Co-Founder & CEO @ MediModo
 
+## Stats
 <!-- If you're using "main" as default branch -->
 ![Metrics](https://github.com/LuffyWesley/LuffyWesley/blob/main/github-metrics.svg)
