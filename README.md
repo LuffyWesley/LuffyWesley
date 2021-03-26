@@ -30,6 +30,7 @@ As an aspiring product manager who thrives on creating order out of chaos, I am 
 | Deep Learning | TensorFlow, Keras |
 | Frontend/Client  | HTML5, CSS3 |
 | Backend/Server | REST APIs, Flask, Azure |
+| Databases | MySQL |
 | Tools | GitHub, Git, VS Code, Google Cloud Platform, Azure, Google Collab, JupyterLab, Anaconda |
 ## Work
 - Project Manager Intern @ University of Washington - IT (UW-IT) **Present**
