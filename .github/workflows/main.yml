@@ -32,9 +32,6 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_url: .user.website
           plugin_topics: yes
+          plugin_topics_sort: stars    # Sort by most starred topics
           plugin_topics_mode: mastered # Display icons instead of labels
           plugin_topics_limit: 0       # Disable limitations
-          plugin_achievements: yes
-          plugin_achievements_threshold: C       # Display achievements with rank C or higher
-          plugin_achievements_secrets: yes       # Display unlocked secrets achievements
-          plugin_achievements_limit: 0           # Display all unlocked achievement matching threshold and secrets params
