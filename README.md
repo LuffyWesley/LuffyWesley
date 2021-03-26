@@ -38,4 +38,4 @@ As an aspiring product manager who thrives on creating order out of chaos, I am 
 - Co-Founder & CEO @ MediModo
 
 <!-- If you're using "main" as default branch -->
-![Metrics](https://metrics.lecoq.io/LuffyWesley?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&followup=1&lines=1&pagespeed=1&isocalendar.duration=halfyear&languages.colors=github&languages.threshold=0%25&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=America%2FLos_Angeles)
+![Metrics](https://github.com/LuffyWesley/LuffyWesley/blob/main/github-metrics.svg)
