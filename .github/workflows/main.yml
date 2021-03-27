@@ -18,7 +18,6 @@ jobs:
           # Options
           user: LuffyWesley
           template: classic
-          base: header
           config_timezone: America/Los_Angeles
           plugin_followup: yes
           plugin_isocalendar: yes
@@ -29,5 +28,3 @@ jobs:
           plugin_languages_details: bytes-size, percentage # Additionally display total bytes size and percentage
           plugin_languages_threshold: 0%
           plugin_lines: yes
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: .user.website
