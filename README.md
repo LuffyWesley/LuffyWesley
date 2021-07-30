@@ -33,7 +33,7 @@ As an aspiring product manager who thrives on creating order out of chaos, I am 
 | Databases | MySQL |
 | Tools | GitHub, Git, VS Code, Google Cloud Platform, Azure, Google Collab, JupyterLab, Anaconda |
 ## Work
-- Project Manager Intern @ University of Washington - IT (UW-IT) **Present**
+- Project Manager Intern @ University of Washington - IT (UW-IT)
 - Program Manager Intern @ Blizzard Entertainment
 - Co-Founder & CEO @ MediModo
 
