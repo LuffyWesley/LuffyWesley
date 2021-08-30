@@ -33,8 +33,9 @@ As an aspiring product manager who thrives on creating order out of chaos, I am 
 | Databases | MySQL |
 | Tools | GitHub, Git, VS Code, Google Cloud Platform, Azure, Google Collab, JupyterLab, Anaconda |
 ## Work
+- Engineering Program Manager @ [CrowdStrike](https://www.crowdstrike.com/) **(Present)**
 - Project Manager Intern @ University of Washington - IT (UW-IT)
-- Program Manager Intern @ Blizzard Entertainment
+- Program Manager Intern @ [Blizzard Entertainment](https://www.blizzard.com/en-us/)
 - Co-Founder & CEO @ MediModo
 
 ## Stats
