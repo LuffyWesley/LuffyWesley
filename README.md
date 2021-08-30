@@ -36,7 +36,7 @@ As an aspiring product manager who thrives on creating order out of chaos, I am 
 - Engineering Program Manager @ [CrowdStrike](https://www.crowdstrike.com/) **(Present)**
 - Project Manager Intern @ [University of Washington - IT (UW-IT)](https://www.washington.edu/uwit/)
 - Program Manager Intern @ [Blizzard Entertainment](https://www.blizzard.com/en-us/)
-- Co-Founder & CEO @ MediModo
+- Co-Founder @ MediModo
 
 ## Stats
 <!-- If you're using "main" as default branch -->
