@@ -33,7 +33,8 @@ As an aspiring product manager who thrives on creating order out of chaos, I am 
 | Databases | MySQL |
 | Tools | GitHub, Git, VS Code, Google Cloud Platform, Azure, Google Collab, JupyterLab, Anaconda |
 ## Work
-- Engineering Program Manager Intern @ [CrowdStrike](https://www.crowdstrike.com/) **(Present)**
+- Product Manager @ [Hyperproof](https://hyperproof.io/) **(Present)**
+- Engineering Program Manager Intern @ [CrowdStrike](https://www.crowdstrike.com/)
 - Project Manager Intern @ [University of Washington - IT (UW-IT)](https://www.washington.edu/uwit/)
 - Program Manager Intern @ [Blizzard Entertainment](https://www.blizzard.com/en-us/)
 - Co-Founder @ MediModo
