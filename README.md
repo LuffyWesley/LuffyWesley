@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## About Me
 Hi 👋🏿, my name is Wesley Muthemba.
 ### Education
-I am currently studying at the [University of Washington (UW)](https://www.washington.edu/), [Global Innovation Exchange (GIX)](https://gixnetwork.org/) where I am completing a Master’s in Technology Innovation and hold a Bachelor’s in [Human Centered Design & Engineering (HCDE)](https://www.hcde.washington.edu/).
+I hold a Master’s in [Technology Innovation](https://gixnetwork.org/) and a Bachelor’s in [Human Centered Design & Engineering (HCDE)](https://www.hcde.washington.edu/) both from the [University of Washington (UW)](https://www.washington.edu/).
 
 - [Grad school work](https://luffywesley.github.io/MSTI-Courses/)
 - [Undergrad work](https://luffywesley.github.io/UW-Courses/)
