@@ -42,4 +42,3 @@ As an aspiring product manager who thrives on creating order out of chaos, I am 
 ## Stats
 <!-- If you're using "main" as default branch -->
 ![Metrics](https://github.com/LuffyWesley/LuffyWesley/blob/main/github-metrics.svg)
-![XKCD Comic](https://github.com/LuffyWesley/LuffyWesley/blob/main/metrics.plugin.screenshot.svg)
