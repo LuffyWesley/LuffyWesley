@@ -32,12 +32,6 @@ A product manager who thrives on creating order out of chaos, I am energized by 
 | Backend/Server | REST APIs, Flask, Azure |
 | Databases | MySQL |
 | Tools | GitHub, Git, VS Code, Google Cloud Platform, Azure, Google Collab, JupyterLab, Anaconda |
-## Work
-- Product Manager @ [Hyperproof](https://hyperproof.io/) **(Present)**
-- Engineering Program Manager Intern @ [CrowdStrike](https://www.crowdstrike.com/)
-- Project Manager Intern @ [University of Washington - IT (UW-IT)](https://www.washington.edu/uwit/)
-- Program Manager Intern @ [Blizzard Entertainment](https://www.blizzard.com/en-us/)
-- Co-Founder @ MediModo
 
 ## Stats
 <!-- If you're using "main" as default branch -->
