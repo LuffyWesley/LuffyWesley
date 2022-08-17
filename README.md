@@ -21,7 +21,7 @@ I hold a Master’s in [Technology Innovation](https://gixnetwork.org/) and a Ba
 - [Undergrad work](https://luffywesley.github.io/UW-Courses/)
 
 ### Interests
-As an aspiring product manager who thrives on creating order out of chaos, I am energized by “wicked” challenges and am comfortable with ambiguity, having served in multiple internship roles. I keep teams on track and have a knack for identifying blind spots and finding elegant solutions to unforeseen problems. Playing a key role in remote product launches has been exciting, but what drives me continues to be the opportunity to forge a path for others as part of an underrepresented group in tech.
+A product manager who thrives on creating order out of chaos, I am energized by “wicked” challenges and am comfortable with ambiguity, having served in multiple internship roles. I keep teams on track and have a knack for identifying blind spots and finding elegant solutions to unforeseen problems. Playing a key role in remote product launches has been exciting, but what drives me continues to be the opportunity to forge a path for others as part of an underrepresented group in tech.
 ## Skills
 | Technical |   |
 |-----------|---|
