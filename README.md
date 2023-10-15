@@ -29,7 +29,3 @@ A product manager who thrives on creating order out of chaos, I am energized by 
 | Backend/Server | REST APIs, Flask, Azure |
 | Databases | MySQL |
 | Tools | GitHub, Git, VS Code, Google Cloud Platform, Azure, Google Collab, JupyterLab, Anaconda |
-
-## Stats
-<!-- If you're using "main" as default branch -->
-![Metrics](https://github.com/LuffyWesley/LuffyWesley/blob/main/github-metrics.svg)
